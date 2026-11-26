@@ -49,7 +49,7 @@ To use IBM Granite models, you need a Replicate account:
 1. Open watsonx.ai Studio
 2. Create a new Jupyter notebook from URL:
    ```
-   https://github.com/garcejan/IFSA-students/blob/main/MultimodalRAG/src/MultimodalRAG.ipynb
+   https://github.com/garcejan/MultimodalRAG/blob/main/src/MultimodalRAG.ipynb
    ```
 3. **Important**: Select **Runtime 25.1 on Python 3.12 S** (4 vCPU, 16 GB RAM)
    - This runtime is required for processing documents and running AI models
